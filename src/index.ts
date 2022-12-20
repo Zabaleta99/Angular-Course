@@ -1,0 +1,4 @@
+/*
+los .json los archivos de configuravion
+
+*/
